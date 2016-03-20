@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coding and Create</string>
+    <string name="content">Scratch is a kind of coding for starters, it is very easy.  You just need to drag a few of block to make a sprite move !</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_page_3">activity_page_3</string>
+</resources>
